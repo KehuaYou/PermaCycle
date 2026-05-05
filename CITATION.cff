@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "PermaCycle: A Coupled Hydro-Thermal-Geochemical Model for Permafrost Dynamics Across Glacial-Interglacial Cycles"
+type: software
+authors:
+  - family-names: You
+    given-names: Kehua
+    affiliation: "University of Texas at Austin"
+    email: "kehua@ig.utexas.edu"
+    # orcid: "https://orcid.org/0000-0002-0194-8720"
+version: "1.0.0"
+date-released: "2026-05-05"
+abstract: "PermaCycle is a one-dimensional MATLAB-based numerical model for simulating the evolution of subsea permafrost and methane hydrate stability along Arctic continental shelves over glacial-interglacial cycles. The model couples hydrological, thermal, and geochemical processes, including fluid flow, heat transport, salt transport, ice formation and melting, and methane hydrate stability calculations."
+keywords:
+  - permafrost
+  - subsea permafrost
+  - methane hydrate
+  - Arctic continental shelf
+  - Glacial-interglacial cycle
+  - hydrothermal modeling
+  - geochemical transport
+  - MATLAB
+license: MIT
+repository-code: "https://github.com/KehuaYou/PermaCycle"
+# doi: "10.5281/zenodo.XXXXXXX"
