@@ -1,6 +1,6 @@
 # PermaCycle
 
-[![DOI](https://zenodo.org/badge/DOI/XXXXX.svg)](https://doi.org/XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20043352.svg)]([https://doi.org/XXXXX](https://doi.org/10.5281/zenodo.20043352))
 
 **PermaCycle** is a one-dimensional MATLAB-based numerical model for
 simulating the evolution of subsea permafrost dynamics and methane hydrate
@@ -56,7 +56,7 @@ You, K. (2024). Biodegradation of Ancient Organic Carbon Fuels Seabed Methane Em
 
 ## Requirements
 
--   MATLAB (R20XX or later recommended)
+-   MATLAB (R2025 or later recommended)
 
 ------------------------------------------------------------------------
 
@@ -112,8 +112,8 @@ The model outputs:
 
 ## Citation
 
-> You, K. (2026). *PermaCycle v1.0.0* \[Software\]. Zenodo.
-> https://doi.org/XXXXX
+> You, K. (2026). *PermaCycle v1.0.1: A Coupled Hydro–Thermal–Geochemical Model for Permafrost Dynamics* \[Software\]. Zenodo.
+> https://doi.org/10.5281/zenodo.20043352
 
 ------------------------------------------------------------------------
 
