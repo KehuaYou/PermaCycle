@@ -101,8 +101,11 @@ Key model inputs are defined in initialization.m and include:
 -   E-folding depth for porosity (e_fold)
 
 2. Provide the site's surface-temperature history (`surface_T.csv`) and relative
-sea-level curve (`sealevel.xlsx`), then run `Main_loop` from the `src/`
-directory. Results are saved as `.mat` files at the specified save interval.
+sea-level curve (`sealevel.xlsx`).
+
+3. Run `Main_loop` from the `src/`directory.
+   
+4. Results are saved as `.mat` files at the specified save interval.
 
 
 ------------------------------------------------------------------------
